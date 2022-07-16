@@ -5,7 +5,7 @@
 
 # 👨🏻‍🏫 Professor e Turma
  - Alciomar Hollanda
- - 1- semestre de S.I
+ - 1º semestre de S.I
 
 
 # 👨‍💻 Grupo

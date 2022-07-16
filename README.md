@@ -1,11 +1,7 @@
 # Projeto Faculdade - QUIZ
 ## Projeto faculdade - Um jogo de perguntas e respostas <h2>
 
-![Login](https://github.com/biell-lopes/Projeto_Estacionamento_Java/blob/main/ProjetoEstacionamento/37-12-22-113700.png)
-
-![Instrucoes](https://github.com/biell-lopes/Projeto_Estacionamento_Java/blob/main/ProjetoEstacionamento/37-12-22-113700.png)
-
-![Pergunta](https://github.com/biell-lopes/Projeto_Estacionamento_Java/blob/main/ProjetoEstacionamento/37-12-22-113700.png)
+![Pergunta](https://github.com/biell-lopes/Projeto_Quiz/blob/master/reespostas.png)
 
 # 👨🏻‍🏫 Professor e Turma
  - Alciomar Hollanda
